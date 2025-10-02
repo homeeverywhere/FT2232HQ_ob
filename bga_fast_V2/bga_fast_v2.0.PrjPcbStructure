@@ -1,7 +1,1 @@
-Record=TopLevelDocument|FileName=AD9156.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=AD9156.SchDoc|FileName=Cortex_M.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=AD9156.SchDoc|FileName=jtag.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=AD9156.SchDoc|FileName=power.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=AD9156.SchDoc|FileName=Power_Tree.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=AD9156.SchDoc|FileName=Risc_V.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=AD9156.SchDoc|FileName=ZYNQ.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=AD9156.SchDoc

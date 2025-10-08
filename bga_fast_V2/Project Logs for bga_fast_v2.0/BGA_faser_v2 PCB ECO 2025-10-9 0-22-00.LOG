@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=QSPI_CLK Pin=U16-53
+Added Pin To Net: NetName=PSCLK Pin=U16-53

@@ -1,0 +1,353 @@
+Removed Member From Class: ClassName=zynq Member=C94
+Removed Member From Class: ClassName=zynq Member=C99
+Removed Member From Class: ClassName=zynq Member=C104
+Removed Member From Class: ClassName=jtag Member=C112
+Removed Member From Class: ClassName=jtag Member=C114
+Removed Member From Class: ClassName=jtag Member=C119
+Removed Member From Class: ClassName=jtag Member=C137
+Removed Member From Class: ClassName=zynq Member=C137
+Removed Member From Class: ClassName=power Member=C144
+Removed Member From Class: ClassName=power Member=C151
+Removed Member From Class: ClassName=power Member=C154
+Removed Member From Class: ClassName=power Member=C157
+Removed Member From Class: ClassName=AD9156 Member=C197
+Removed Member From Class: ClassName=AD9156 Member=C198
+Removed Member From Class: ClassName=AD9156 Member=C199
+Removed Member From Class: ClassName=AD9156 Member=C200
+Removed Member From Class: ClassName=zynq Member=R33
+Removed Member From Class: ClassName=zynq Member=R34
+Removed Member From Class: ClassName=jtag Member=R54
+Removed Member From Class: ClassName=jtag Member=R57
+Removed Member From Class: ClassName=AD9156 Member=R114
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R36
+Change Component Designator: OldDesignator=R36 NewDesignator=R37
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R41
+Change Component Designator: OldDesignator=R41 NewDesignator=R42
+Change Component Designator: OldDesignator=R42 NewDesignator=R43
+Change Component Designator: OldDesignator=R43 NewDesignator=R44
+Change Component Designator: OldDesignator=R44 NewDesignator=R45
+Change Component Designator: OldDesignator=R45 NewDesignator=R46
+Change Component Designator: OldDesignator=R46 NewDesignator=R47
+Change Component Designator: OldDesignator=R47 NewDesignator=R48
+Change Component Designator: OldDesignator=R48 NewDesignator=R49
+Change Component Designator: OldDesignator=R49 NewDesignator=R50
+Change Component Designator: OldDesignator=R50 NewDesignator=R51
+Change Component Designator: OldDesignator=R51 NewDesignator=R52
+Change Component Designator: OldDesignator=R52 NewDesignator=R53
+Change Component Designator: OldDesignator=R53 NewDesignator=R54
+Change Component Designator: OldDesignator=R54 NewDesignator=R55
+Change Component Designator: OldDesignator=R55 NewDesignator=R56
+Change Component Designator: OldDesignator=R56 NewDesignator=R57
+Change Component Designator: OldDesignator=R57 NewDesignator=R58
+Change Component Designator: OldDesignator=R58 NewDesignator=R59
+Change Component Designator: OldDesignator=R59 NewDesignator=R60
+Change Component Designator: OldDesignator=R60 NewDesignator=R61
+Change Component Designator: OldDesignator=R61 NewDesignator=R62
+Change Component Designator: OldDesignator=R62 NewDesignator=R63
+Change Component Designator: OldDesignator=R63 NewDesignator=R64
+Change Component Designator: OldDesignator=R64 NewDesignator=R65
+Change Component Designator: OldDesignator=R65 NewDesignator=R66
+Change Component Designator: OldDesignator=R66 NewDesignator=R67
+Change Component Designator: OldDesignator=R67 NewDesignator=R68
+Change Component Designator: OldDesignator=R68 NewDesignator=R69
+Change Component Designator: OldDesignator=R69 NewDesignator=R70
+Change Component Designator: OldDesignator=R70 NewDesignator=R71
+Change Component Designator: OldDesignator=R71 NewDesignator=R72
+Change Component Designator: OldDesignator=R72 NewDesignator=R73
+Change Component Designator: OldDesignator=R73 NewDesignator=R74
+Change Component Designator: OldDesignator=R74 NewDesignator=R75
+Change Component Designator: OldDesignator=R75 NewDesignator=R76
+Change Component Designator: OldDesignator=R76 NewDesignator=R77
+Change Component Designator: OldDesignator=R77 NewDesignator=R78
+Change Component Designator: OldDesignator=R78 NewDesignator=R79
+Change Component Designator: OldDesignator=R79 NewDesignator=R80
+Change Component Designator: OldDesignator=R80 NewDesignator=R81
+Change Component Designator: OldDesignator=R81 NewDesignator=R82
+Change Component Designator: OldDesignator=R82 NewDesignator=R83
+Change Component Designator: OldDesignator=R83 NewDesignator=R84
+Change Component Designator: OldDesignator=R84 NewDesignator=R85
+Change Component Designator: OldDesignator=R85 NewDesignator=R86
+Change Component Designator: OldDesignator=R86 NewDesignator=R87
+Change Component Designator: OldDesignator=R87 NewDesignator=R88
+Change Component Designator: OldDesignator=R88 NewDesignator=R89
+Change Component Designator: OldDesignator=R89 NewDesignator=R90
+Change Component Designator: OldDesignator=R90 NewDesignator=R91
+Change Component Designator: OldDesignator=R91 NewDesignator=R92
+Change Component Designator: OldDesignator=R92 NewDesignator=R93
+Change Component Designator: OldDesignator=R93 NewDesignator=R94
+Change Component Designator: OldDesignator=R94 NewDesignator=R95
+Change Component Designator: OldDesignator=R95 NewDesignator=R96
+Change Component Designator: OldDesignator=R96 NewDesignator=R97
+Change Component Designator: OldDesignator=R97 NewDesignator=R98
+Change Component Designator: OldDesignator=R98 NewDesignator=R99
+Change Component Designator: OldDesignator=R99 NewDesignator=R100
+Change Component Designator: OldDesignator=R100 NewDesignator=R101
+Change Component Designator: OldDesignator=R101 NewDesignator=R102
+Change Component Designator: OldDesignator=R102 NewDesignator=R103
+Change Component Designator: OldDesignator=R103 NewDesignator=R104
+Change Component Designator: OldDesignator=R104 NewDesignator=R105
+Change Component Designator: OldDesignator=R105 NewDesignator=R106
+Change Component Designator: OldDesignator=R106 NewDesignator=R107
+Change Component Designator: OldDesignator=R107 NewDesignator=R108
+Change Component Designator: OldDesignator=R108 NewDesignator=R109
+Change Component Designator: OldDesignator=R109 NewDesignator=R110
+Change Component Designator: OldDesignator=R110 NewDesignator=R111
+Change Component Designator: OldDesignator=R111 NewDesignator=R112
+Change Component Designator: OldDesignator=R112 NewDesignator=R113
+Change Component Designator: OldDesignator=R113 NewDesignator=R114
+Change Component Designator: OldDesignator=R114 NewDesignator=R115
+Change Component Designator: OldDesignator=R115 NewDesignator=R116
+Added Component: Designator=R28(0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_17853.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17168"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DDR_CK_p Pin=R28-1
+Added Pin To Net: NetName=DDR_CK_n Pin=R28-2
+Change Net Name : Old Net Name=NetR35_2 New Net Name=NetR36_2
+Change Net Name : Old Net Name=NetR37_1 New Net Name=NetR38_1
+Change Net Name : Old Net Name=NetR38_1 New Net Name=NetR39_1
+Change Net Name : Old Net Name=NetR39_1 New Net Name=NetR40_1
+Change Net Name : Old Net Name=NetR40_1 New Net Name=NetR41_1
+Change Net Name : Old Net Name=NetR43_2 New Net Name=NetR44_2
+Change Net Name : Old Net Name=NetR44_2 New Net Name=NetR45_2
+Change Net Name : Old Net Name=NetR46_1 New Net Name=NetR47_1
+Change Net Name : Old Net Name=NetR47_1 New Net Name=NetR48_1
+Change Net Name : Old Net Name=NetR53_2 New Net Name=NetR54_2
+Change Net Name : Old Net Name=NetR56_1 New Net Name=NetR57_1
+Change Net Name : Old Net Name=NetR58_2 New Net Name=NetR59_2
+Change Net Name : Old Net Name=NetR59_1 New Net Name=NetR60_1
+Change Net Name : Old Net Name=NetR62_1 New Net Name=NetR63_1
+Change Net Name : Old Net Name=NetR63_2 New Net Name=NetR64_2
+Change Net Name : Old Net Name=NetR64_2 New Net Name=NetR65_2
+Change Net Name : Old Net Name=NetR73_2 New Net Name=NetR74_2
+Change Net Name : Old Net Name=NetR77_1 New Net Name=NetR78_1
+Change Net Name : Old Net Name=NetR78_1 New Net Name=NetR79_1
+Change Net Name : Old Net Name=NetR79_2 New Net Name=NetR80_2
+Change Net Name : Old Net Name=NetR81_2 New Net Name=NetR82_2
+Change Net Name : Old Net Name=NetR82_1 New Net Name=NetR83_1
+Change Net Name : Old Net Name=NetR86_1 New Net Name=NetR87_1
+Change Net Name : Old Net Name=NetR87_2 New Net Name=NetR88_2
+Change Net Name : Old Net Name=NetR93_2 New Net Name=NetR94_2
+Change Net Name : Old Net Name=NetR94_2 New Net Name=NetR95_2
+Change Net Name : Old Net Name=NetR98_2 New Net Name=NetR99_2
+Change Net Name : Old Net Name=NetR102_1 New Net Name=NetR103_1
+Change Net Name : Old Net Name=NetR104_1 New Net Name=NetR105_1
+Change Net Name : Old Net Name=NetR115_2 New Net Name=NetR116_2
+Added Member To Class: ClassName=zynq Member=Component C36 100nF
+Added Member To Class: ClassName=zynq Member=Component C37 10nF
+Added Member To Class: ClassName=zynq Member=Component C38 100nF
+Added Member To Class: ClassName=zynq Member=Component C39 100nF
+Added Member To Class: ClassName=zynq Member=Component C40 100nF
+Added Member To Class: ClassName=zynq Member=Component C41 100nF
+Added Member To Class: ClassName=zynq Member=Component C42 100nF
+Added Member To Class: ClassName=zynq Member=Component C43 100nF
+Added Member To Class: ClassName=zynq Member=Component C44 100nF
+Added Member To Class: ClassName=zynq Member=Component C45 100nF
+Added Member To Class: ClassName=zynq Member=Component C46 100nF
+Added Member To Class: ClassName=zynq Member=Component C47 100nF
+Added Member To Class: ClassName=zynq Member=Component C48 100nF
+Added Member To Class: ClassName=zynq Member=Component C49 100nF
+Added Member To Class: ClassName=zynq Member=Component C50 100nF
+Added Member To Class: ClassName=zynq Member=Component C51 100nF
+Added Member To Class: ClassName=zynq Member=Component C53 100nF
+Added Member To Class: ClassName=zynq Member=Component C54 10nF
+Added Member To Class: ClassName=zynq Member=Component C55 100nF
+Added Member To Class: ClassName=zynq Member=Component C56 100nF
+Added Member To Class: ClassName=zynq Member=Component C57 100nF
+Added Member To Class: ClassName=zynq Member=Component C58 100nF
+Added Member To Class: ClassName=zynq Member=Component C60 100nF
+Added Member To Class: ClassName=zynq Member=Component C62 100nF
+Added Member To Class: ClassName=zynq Member=Component C63 100nF
+Added Member To Class: ClassName=zynq Member=Component C64 100nF
+Added Member To Class: ClassName=zynq Member=Component C65 100nF
+Added Member To Class: ClassName=zynq Member=Component C66 100nF
+Added Member To Class: ClassName=zynq Member=Component C67 100nF
+Added Member To Class: ClassName=zynq Member=Component C68 100nF
+Added Member To Class: ClassName=zynq Member=Component C69 100nF
+Added Member To Class: ClassName=zynq Member=Component C71 100nF
+Added Member To Class: ClassName=zynq Member=Component C73 100nF
+Added Member To Class: ClassName=zynq Member=Component C74 100nF
+Added Member To Class: ClassName=zynq Member=Component C75 100nF
+Added Member To Class: ClassName=zynq Member=Component C76 100nF
+Added Member To Class: ClassName=zynq Member=Component C77 100nF
+Added Member To Class: ClassName=zynq Member=Component C78 100nF
+Added Member To Class: ClassName=zynq Member=Component C80 100nF
+Added Member To Class: ClassName=zynq Member=Component C82 100nF
+Added Member To Class: ClassName=zynq Member=Component C83 100nF
+Added Member To Class: ClassName=zynq Member=Component C85 100nF
+Added Member To Class: ClassName=zynq Member=Component C88 100nF
+Added Member To Class: ClassName=zynq Member=Component C90 100nF
+Added Member To Class: ClassName=zynq Member=Component C91 100nF
+Added Member To Class: ClassName=zynq Member=Component C92 100nF
+Added Member To Class: ClassName=jtag Member=Component C93 100nF
+Added Member To Class: ClassName=jtag Member=Component C94 100nF
+Added Member To Class: ClassName=jtag Member=Component C95 100nF
+Added Member To Class: ClassName=jtag Member=Component C96 100nF
+Added Member To Class: ClassName=jtag Member=Component C97 100nF
+Added Member To Class: ClassName=jtag Member=Component C98 100nF
+Added Member To Class: ClassName=jtag Member=Component C100 100nF
+Added Member To Class: ClassName=jtag Member=Component C101 100nF
+Added Member To Class: ClassName=jtag Member=Component C102 100nF
+Added Member To Class: ClassName=jtag Member=Component C103 4.7uF
+Added Member To Class: ClassName=jtag Member=Component C105 12pF (120) 5% 50V
+Added Member To Class: ClassName=power Member=Component C106 100nF
+Added Member To Class: ClassName=power Member=Component C107 100uF
+Added Member To Class: ClassName=power Member=Component C108 100uF
+Added Member To Class: ClassName=power Member=Component C109 22uF
+Added Member To Class: ClassName=power Member=Component C110 22uF
+Added Member To Class: ClassName=power Member=Component C111 22uF
+Added Member To Class: ClassName=power Member=Component C113 100uF
+Added Member To Class: ClassName=power Member=Component C115 10uF
+Added Member To Class: ClassName=power Member=Component C116 10uF
+Added Member To Class: ClassName=power Member=Component C117 22uF
+Added Member To Class: ClassName=power Member=Component C118 22uF
+Added Member To Class: ClassName=power Member=Component C120 3.3nF
+Added Member To Class: ClassName=power Member=Component C121 100nF
+Added Member To Class: ClassName=power Member=Component C122 100uF
+Added Member To Class: ClassName=power Member=Component C123 100uF
+Added Member To Class: ClassName=power Member=Component C125 100uF
+Added Member To Class: ClassName=power Member=Component C126 4.7uF
+Added Member To Class: ClassName=power Member=Component C127 10uF
+Added Member To Class: ClassName=power Member=Component C128 10uF
+Added Member To Class: ClassName=power Member=Component C129 22uF (226) 20% 25V
+Added Member To Class: ClassName=power Member=Component C130 22uF (226) 20% 25V
+Added Member To Class: ClassName=power Member=Component C131 100pF
+Added Member To Class: ClassName=power Member=Component C132 3.3nF
+Added Member To Class: ClassName=power Member=Component C133 10uF
+Added Member To Class: ClassName=power Member=Component C134 10uF
+Added Member To Class: ClassName=AD9156 Member=Component C139 100nF
+Added Member To Class: ClassName=AD9156 Member=Component C140 100nF
+Added Member To Class: ClassName=AD9156 Member=Component C141 100nF
+Added Member To Class: ClassName=AD9156 Member=Component C142 100nF
+Added Member To Class: ClassName=AD9156 Member=Component C143 100nF
+Added Member To Class: ClassName=AD9156 Member=Component C145 100nF
+Added Member To Class: ClassName=AD9156 Member=Component C146 100nF
+Added Member To Class: ClassName=AD9156 Member=Component C147 100nF
+Added Member To Class: ClassName=AD9156 Member=Component C148 100nF
+Added Member To Class: ClassName=AD9156 Member=Component C149 100nF
+Added Member To Class: ClassName=AD9156 Member=Component C150 100nF
+Added Member To Class: ClassName=AD9156 Member=Component C153 100nF
+Added Member To Class: ClassName=AD9156 Member=Component C155 1uF
+Added Member To Class: ClassName=AD9156 Member=Component C156 68nF
+Added Member To Class: ClassName=AD9156 Member=Component C158 NC
+Added Member To Class: ClassName=AD9156 Member=Component C159 100nF
+Added Member To Class: ClassName=AD9156 Member=Component C160 100nF
+Added Member To Class: ClassName=AD9156 Member=Component C161 100nF
+Added Member To Class: ClassName=AD9156 Member=Component C162 220nF
+Added Member To Class: ClassName=Risc_V Member=Component C163 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C164 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C165 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C166 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C167 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C168 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C169 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C170 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C171 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C172 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C173 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C174 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C175 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C176 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C177 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C178 4.7uF
+Added Member To Class: ClassName=Risc_V Member=Component C179 4.7uF
+Added Member To Class: ClassName=Risc_V Member=Component C180 4.7uF
+Added Member To Class: ClassName=Risc_V Member=Component C181 4.7uF
+Added Member To Class: ClassName=Risc_V Member=Component C182 4.7uF
+Added Member To Class: ClassName=Risc_V Member=Component C183 4.7uF
+Added Member To Class: ClassName=Risc_V Member=Component C184 4.7uF
+Added Member To Class: ClassName=Risc_V Member=Component C185 4.7uF
+Added Member To Class: ClassName=Risc_V Member=Component C186 10uF
+Added Member To Class: ClassName=Risc_V Member=Component C187 10u
+Added Member To Class: ClassName=Risc_V Member=Component C188 1uF
+Added Member To Class: ClassName=Risc_V Member=Component C189 2.2uF
+Added Member To Class: ClassName=Risc_V Member=Component C190 1.0uF
+Added Member To Class: ClassName=Risc_V Member=Component C191 1.0uF
+Added Member To Class: ClassName=Risc_V Member=Component C192 1.0uF
+Added Member To Class: ClassName=Risc_V Member=Component C193 1.0uF
+Added Member To Class: ClassName=Risc_V Member=Component C194 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C195 100nF
+Added Member To Class: ClassName=Risc_V Member=Component C196 100nF
+Added Member To Class: ClassName=zynq Member=Component R23 1KΩ
+Added Member To Class: ClassName=zynq Member=Component R24 1KΩ
+Added Member To Class: ClassName=zynq Member=Component R26 4.7KΩ
+Added Member To Class: ClassName=zynq Member=Component R27 120Ω
+Added Member To Class: ClassName=zynq Member=Component R28 80.4
+Added Member To Class: ClassName=zynq Member=Component R29 1.2KΩ
+Added Member To Class: ClassName=zynq Member=Component R30 80.4
+Added Member To Class: ClassName=zynq Member=Component R31 80.4
+Added Member To Class: ClassName=jtag Member=Component R32 10KΩ (1002) ±1%
+Added Member To Class: ClassName=jtag Member=Component R35 10KΩ (1002) ±1%
+Added Member To Class: ClassName=jtag Member=Component R36 2.2KΩ
+Added Member To Class: ClassName=jtag Member=Component R37 0Ω
+Added Member To Class: ClassName=jtag Member=Component R39 33Ω
+Added Member To Class: ClassName=jtag Member=Component R40 33Ω
+Added Member To Class: ClassName=jtag Member=Component R43 33Ω
+Added Member To Class: ClassName=jtag Member=Component R44 12KΩ
+Added Member To Class: ClassName=jtag Member=Component R45 1KΩ
+Added Member To Class: ClassName=jtag Member=Component R46 1KΩ (1001) ±1%
+Added Member To Class: ClassName=jtag Member=Component R47 33Ω
+Added Member To Class: ClassName=jtag Member=Component R50 5.1KΩ
+Added Member To Class: ClassName=jtag Member=Component R51 5.1KΩ
+Added Member To Class: ClassName=jtag Member=Component R52 10KΩ
+Added Member To Class: ClassName=power Member=Component R53 0Ω
+Added Member To Class: ClassName=power Member=Component R55 10KΩ
+Added Member To Class: ClassName=power Member=Component R56 NC
+Added Member To Class: ClassName=power Member=Component R59 1.2KΩ
+Added Member To Class: ClassName=power Member=Component R60 24Ω
+Added Member To Class: ClassName=power Member=Component R62 680Ω
+Added Member To Class: ClassName=power Member=Component R63 3KΩ (3001) ±1%
+Added Member To Class: ClassName=power Member=Component R64 51KΩ (5102) ±1%
+Added Member To Class: ClassName=power Member=Component R65 33KΩ (3302) ±1%
+Added Member To Class: ClassName=power Member=Component R66 3.9KΩ (3901) ±1%
+Added Member To Class: ClassName=power Member=Component R67 0Ω
+Added Member To Class: ClassName=power Member=Component R68 0Ω (0R0) ±1%
+Added Member To Class: ClassName=power Member=Component R69 NC
+Added Member To Class: ClassName=power Member=Component R70 10KΩ (1002) ±1%
+Added Member To Class: ClassName=power Member=Component R71 100KΩ
+Added Member To Class: ClassName=power Member=Component R72 NC
+Added Member To Class: ClassName=power Member=Component R73 0Ω
+Added Member To Class: ClassName=power Member=Component R74 200Ω (2000) ±1%
+Added Member To Class: ClassName=power Member=Component R75 30KΩ (3002) ±1%
+Added Member To Class: ClassName=power Member=Component R77 10KΩ
+Added Member To Class: ClassName=power Member=Component R78 120KΩ (1203) ±1%
+Added Member To Class: ClassName=power Member=Component R80 10KΩ (1002) ±1%
+Added Member To Class: ClassName=power Member=Component R81 1KΩ (1001) ±1%
+Added Member To Class: ClassName=power Member=Component R82 1.2KΩ (1201) ±1%
+Added Member To Class: ClassName=power Member=Component R84 5.1Ω (5R10) ±1%
+Added Member To Class: ClassName=power Member=Component R85 0Ω (0R0) ±1%
+Added Member To Class: ClassName=power Member=Component R86 10KΩ
+Added Member To Class: ClassName=power Member=Component R87 10KΩ
+Added Member To Class: ClassName=power Member=Component R90 0Ω (0R0) ±1%
+Added Member To Class: ClassName=AD9156 Member=Component R91 0Ω
+Added Member To Class: ClassName=AD9156 Member=Component R93 100Ω (1000) ±1%
+Added Member To Class: ClassName=AD9156 Member=Component R94 2KΩ
+Added Member To Class: ClassName=AD9156 Member=Component R95 2KΩ
+Added Member To Class: ClassName=AD9156 Member=Component R96 120Ω
+Added Member To Class: ClassName=AD9156 Member=Component R97 5.1KΩ
+Added Member To Class: ClassName=AD9156 Member=Component R98 0Ω
+Added Member To Class: ClassName=AD9156 Member=Component R99 1.2KΩ
+Added Member To Class: ClassName=AD9156 Member=Component R100 100Ω
+Added Member To Class: ClassName=AD9156 Member=Component R102 0Ω
+Added Member To Class: ClassName=AD9156 Member=Component R103 2.4KΩ
+Added Member To Class: ClassName=AD9156 Member=Component R104 49.9Ω
+Added Member To Class: ClassName=AD9156 Member=Component R107 200Ω
+Added Member To Class: ClassName=AD9156 Member=Component R108 0
+Added Member To Class: ClassName=AD9156 Member=Component R110 0Ω
+Added Member To Class: ClassName=AD9156 Member=Component R111 NC
+Added Member To Class: ClassName=Risc_V Member=Component R112 10KΩ
+Added Member To Class: ClassName=Risc_V Member=Component R113 10KΩ
+Added Member To Class: ClassName=Risc_V Member=Component R116 10KΩ

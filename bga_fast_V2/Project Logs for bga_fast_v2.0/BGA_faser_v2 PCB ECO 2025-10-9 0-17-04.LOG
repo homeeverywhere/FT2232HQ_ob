@@ -1,0 +1,68 @@
+Removed Member From Class: ClassName=zynq Member=R35
+Removed Member From Class: ClassName=jtag Member=R53
+Removed Member From Class: ClassName=power Member=R91
+Removed Member From Class: ClassName=AD9156 Member=R113
+Added Pin To Net: NetName=QSPI_CLK Pin=U16-53
+Added Pin To Net: NetName=PLCLK_n Pin=U16-55
+Added Pin To Net: NetName=PLCLK_p Pin=U16-56
+Added Pin To Net: NetName=MCU_CLK Pin=U1-J2
+Added Pin To Net: NetName=MCU_CLK Pin=U16-43
+Added Net: Name=MCU_CLK
+Added Member To Class: ClassName=zynq Member=Component R28 80.4
+Added Member To Class: ClassName=zynq Member=Component R30 80.4
+Added Member To Class: ClassName=zynq Member=Component R31 80.4
+Added Member To Class: ClassName=jtag Member=Component R32 10K次 (1002) ㊣1%
+Added Member To Class: ClassName=jtag Member=Component R33 0次
+Added Member To Class: ClassName=jtag Member=Component R34 10K次 (1002) ㊣1%
+Added Member To Class: ClassName=jtag Member=Component R36 2.2K次
+Added Member To Class: ClassName=jtag Member=Component R37 0次
+Added Member To Class: ClassName=jtag Member=Component R38 33次
+Added Member To Class: ClassName=jtag Member=Component R40 33次
+Added Member To Class: ClassName=jtag Member=Component R41 33次
+Added Member To Class: ClassName=jtag Member=Component R42 33次
+Added Member To Class: ClassName=jtag Member=Component R44 12K次
+Added Member To Class: ClassName=jtag Member=Component R45 1K次
+Added Member To Class: ClassName=jtag Member=Component R47 33次
+Added Member To Class: ClassName=jtag Member=Component R48 33次
+Added Member To Class: ClassName=jtag Member=Component R49 10K次
+Added Member To Class: ClassName=jtag Member=Component R51 5.1K次
+Added Member To Class: ClassName=jtag Member=Component R52 10K次
+Added Member To Class: ClassName=power Member=Component R53 0次
+Added Member To Class: ClassName=power Member=Component R54 10K次
+Added Member To Class: ClassName=power Member=Component R56 NC
+Added Member To Class: ClassName=power Member=Component R57 10K次
+Added Member To Class: ClassName=power Member=Component R58 10K次 (1002) ㊣1%
+Added Member To Class: ClassName=power Member=Component R60 24次
+Added Member To Class: ClassName=power Member=Component R61 NC
+Added Member To Class: ClassName=power Member=Component R62 680次
+Added Member To Class: ClassName=power Member=Component R64 51K次 (5102) ㊣1%
+Added Member To Class: ClassName=power Member=Component R66 3.9K次 (3901) ㊣1%
+Added Member To Class: ClassName=power Member=Component R68 0次 (0R0) ㊣1%
+Added Member To Class: ClassName=power Member=Component R70 10K次 (1002) ㊣1%
+Added Member To Class: ClassName=power Member=Component R72 NC
+Added Member To Class: ClassName=power Member=Component R74 200次 (2000) ㊣1%
+Added Member To Class: ClassName=power Member=Component R76 0次
+Added Member To Class: ClassName=power Member=Component R77 10K次
+Added Member To Class: ClassName=power Member=Component R79 10K次
+Added Member To Class: ClassName=power Member=Component R81 1K次 (1001) ㊣1%
+Added Member To Class: ClassName=power Member=Component R82 1.2K次 (1201) ㊣1%
+Added Member To Class: ClassName=power Member=Component R83 220次 (2200) ㊣1%
+Added Member To Class: ClassName=power Member=Component R84 5.1次 (5R10) ㊣1%
+Added Member To Class: ClassName=power Member=Component R86 10K次
+Added Member To Class: ClassName=power Member=Component R88 2.2K次 (2201) ㊣1%
+Added Member To Class: ClassName=power Member=Component R90 0次 (0R0) ㊣1%
+Added Member To Class: ClassName=AD9156 Member=Component R91 0次
+Added Member To Class: ClassName=AD9156 Member=Component R92 0次
+Added Member To Class: ClassName=AD9156 Member=Component R93 100次 (1000) ㊣1%
+Added Member To Class: ClassName=AD9156 Member=Component R95 2K次
+Added Member To Class: ClassName=AD9156 Member=Component R97 5.1K次
+Added Member To Class: ClassName=AD9156 Member=Component R99 1.2K次
+Added Member To Class: ClassName=AD9156 Member=Component R101 0次
+Added Member To Class: ClassName=AD9156 Member=Component R103 2.4K次
+Added Member To Class: ClassName=AD9156 Member=Component R104 49.9次
+Added Member To Class: ClassName=AD9156 Member=Component R105 10次
+Added Member To Class: ClassName=AD9156 Member=Component R106 49.9次
+Added Member To Class: ClassName=AD9156 Member=Component R109 NC
+Added Member To Class: ClassName=AD9156 Member=Component R111 NC
+Added Member To Class: ClassName=Risc_V Member=Component R112 10K次
+Added Member To Class: ClassName=Risc_V Member=Component R114 10K次

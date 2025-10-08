@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PLCLK_n Pin=U16-55
+Removed Pin From Net: NetName=PLCLK_p Pin=U16-56
+Added Pin To Net: NetName=PLCLK_p Pin=U16-55
+Added Pin To Net: NetName=PLCLK_n Pin=U16-56

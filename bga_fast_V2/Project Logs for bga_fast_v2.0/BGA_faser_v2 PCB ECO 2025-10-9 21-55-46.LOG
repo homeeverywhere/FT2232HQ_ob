@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=I2C_CS Pin=U5-D20
+Added Pin To Net: NetName=I2C_CS Pin=U5-F20

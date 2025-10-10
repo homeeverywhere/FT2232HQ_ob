@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VMCU_3V3 Pin=U2-10
+Added Component: Designator=C72(0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_1877.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C1525"; VariantName = "[No Variations]"
+Added Component: Designator=C78(0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_1877.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C1525"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C72-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C72-2
+Added Pin To Net: NetName=GND Pin=C78-1
+Added Pin To Net: NetName=VCC_1V5 Pin=C78-2
+Added Pin To Net: NetName=VCC_3V3 Pin=U2-10
+Added Member To Class: ClassName=zynq Member=Component C72 100nF
+Added Member To Class: ClassName=zynq Member=Component C78 100nF

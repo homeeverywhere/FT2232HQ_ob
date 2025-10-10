@@ -1,0 +1,39 @@
+Removed Member From Class: ClassName=zynq Member=TP13
+Removed Member From Class: ClassName=zynq Member=TP16
+Removed Member From Class: ClassName=zynq Member=TP18
+Removed Member From Class: ClassName=zynq Member=TP19
+Removed Member From Class: ClassName=power Member=TP21
+Change Component Footprint: Designator=C37 Old Footprint=0201 New Footprint=0402_C
+Change Component Footprint: Designator=C54 Old Footprint=0201 New Footprint=0402_C
+Added Component: Designator=C79(0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_1877.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C1525"; VariantName = "[No Variations]"
+Added Component: Designator=R29(0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_17853.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17168"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C79-1
+Added Pin To Net: NetName=VCC_1V5 Pin=C79-2
+Added Pin To Net: NetName=DDR_CK_p Pin=R29-1
+Added Pin To Net: NetName=DDR_CK_n Pin=R29-2
+Added Member To Class: ClassName=zynq Member=Component C79 100nF
+Added Member To Class: ClassName=zynq Member=Component R29 80.4
+Added Member To Class: ClassName=zynq Member=Component TP3 test-point
+Added Member To Class: ClassName=zynq Member=Component TP4 test-point
+Added Member To Class: ClassName=zynq Member=Component TP5 test-point
+Added Member To Class: ClassName=zynq Member=Component TP6 test-point
+Added Member To Class: ClassName=zynq Member=Component TP8 test-point
+Added Member To Class: ClassName=zynq Member=Component TP9 test-point
+Added Member To Class: ClassName=power Member=Component TP10 test-point
+Added Member To Class: ClassName=power Member=Component TP11 test-point
+Added Member To Class: ClassName=power Member=Component TP12 test-point
+Added Member To Class: ClassName=power Member=Component TP14 test-point
+Added Member To Class: ClassName=power Member=Component TP15 test-point
+Added Member To Class: ClassName=power Member=Component TP17 test-point

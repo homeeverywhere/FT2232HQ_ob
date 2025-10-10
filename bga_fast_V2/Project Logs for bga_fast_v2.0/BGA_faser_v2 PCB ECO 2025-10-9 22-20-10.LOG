@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=PC10 Pin=U1-A13
+Added Pin To Net: NetName=PC10 Pin=U5-Y16
+Added Net: Name=PC10
+Added Pin To Net: NetName=PC11 Pin=U1-B13
+Added Pin To Net: NetName=PC11 Pin=U5-W15
+Added Net: Name=PC11
+Added Pin To Net: NetName=SPI1_MISO Pin=U1-A10
+Added Pin To Net: NetName=SPI1_MISO Pin=U5-Y14
+Added Net: Name=SPI1_MISO
+Added Pin To Net: NetName=SPI1_MOSI Pin=U1-A5
+Added Pin To Net: NetName=SPI1_MOSI Pin=U5-Y18
+Added Net: Name=SPI1_MOSI
+Added Pin To Net: NetName=SPI1_NSS Pin=U1-A9
+Added Pin To Net: NetName=SPI1_NSS Pin=U5-Y19
+Added Net: Name=SPI1_NSS
+Added Pin To Net: NetName=SPI1_SCK Pin=U1-B9
+Added Pin To Net: NetName=SPI1_SCK Pin=U5-Y17
+Added Net: Name=SPI1_SCK
